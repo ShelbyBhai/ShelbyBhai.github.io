@@ -8,12 +8,16 @@ body{
 .banner-column{
   background-color:rgb(74, 116, 167);
 }
-.dropdown-menu > li > a:hover {
-  background-image: none;
-  background-color:rgb(74, 116, 167);
-}
 nav{  
   background-color:rgb(74, 116, 167);
   color:rgb(243, 239, 243);
   font-weight: bold;
+}
+.dropdown-menu {
+  background-color:rgb(144, 185, 240);
+  font-weight: bolder;
+}
+.dropdown-menu > li > a:hover {
+  background-image: none;
+  background-color:rgb(74, 116, 167);
 }
