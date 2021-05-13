@@ -21,3 +21,11 @@ nav{
   background-image: none;
   background-color:rgb(74, 116, 167);
 }
+.about-container{
+  background-color:rgb(144, 185, 240);
+  font-weight: bold;
+}
+
+.image-content{
+  background-color:rgb(74, 116, 167);
+}
