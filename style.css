@@ -15,7 +15,7 @@ nav{
 }
 .dropdown-menu {
   background-color:rgb(144, 185, 240);
-  font-weight: bolder;
+  font-weight: bold;
 }
 .dropdown-menu > li > a:hover {
   background-image: none;
@@ -28,4 +28,15 @@ nav{
 
 .image-content{
   background-color:rgb(74, 116, 167);
+}
+
+.education-container{
+  background-color:rgb(144, 185, 240);
+  color:rgb(243, 239, 243);
+}
+.circle-shape{
+  background-color:rgb(74, 116, 167);
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
 }
