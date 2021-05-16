@@ -1,7 +1,12 @@
 body{
   font-family: 'Open Sans', sans-serif;
 }
-
+.common-bg{
+  background-color:rgb(74, 116, 167);
+}
+.common-bg-Pallette{
+  background-color:rgb(102, 151, 216);
+}
 .banner-container{
   background-color: rgb(144, 185, 240);
 }
@@ -27,16 +32,21 @@ nav{
 }
 
 .image-content{
-  background-color:rgb(74, 116, 167);
+  background-color:rgb(102, 151, 216);
 }
 
 .education-container{
   background-color:rgb(144, 185, 240);
   color:rgb(243, 239, 243);
 }
-.circle-shape{
+/* .circle-shape{
   background-color:rgb(74, 116, 167);
   width: 150px;
   height: 150px;
   border-radius: 50%;
+} */
+
+.card-design{
+  background-color:rgb(74, 116, 167);
+  color:rgb(243, 239, 243);
 }
