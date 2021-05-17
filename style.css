@@ -14,7 +14,6 @@ body{
   background-color:rgb(74, 116, 167);
 }
 nav{  
-  background-color:rgb(74, 116, 167);
   color:rgb(243, 239, 243);
   font-weight: bold;
 }
@@ -35,10 +34,11 @@ nav{
   background-color:rgb(102, 151, 216);
 }
 
-.education-container{
+.custom-container{
   background-color:rgb(144, 185, 240);
   color:rgb(243, 239, 243);
 }
+
 /* .circle-shape{
   background-color:rgb(74, 116, 167);
   width: 150px;
