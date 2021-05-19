@@ -50,6 +50,18 @@ nav{
   background-color:rgb(74, 116, 167);
   color:rgb(243, 239, 243);
 }
+a:link{
+  color:white;
+}
+a:active{
+  color:black;
+}
+a:visited{
+  color:purple;
+}
+a:hover{
+  color:rgb(102, 151, 216);
+}
 /* .carousel .carousel-item {
   height: 400px;
 }
