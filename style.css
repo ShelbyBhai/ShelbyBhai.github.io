@@ -66,6 +66,10 @@ a:visited{
 a:hover{
   color:rgb(102, 151, 216);
 }
+
+.carousel-caption:hover{
+  background-color:rgb(74, 116, 167);
+}
 /* .carousel .carousel-item {
   height: 400px;
 }
