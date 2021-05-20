@@ -39,12 +39,16 @@ nav{
   color:rgb(243, 239, 243);
 }
 
-/* .circle-shape{
-  background-color:rgb(74, 116, 167);
-  width: 150px;
-  height: 150px;
+.circle-shape{
+  background-color:rgb(243, 239, 243);
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
-} */
+  /* display: inline-block; */
+  font-size: 35px;
+  text-align: center;
+  color:rgb(74, 116, 167);
+}
 
 .card-design{
   background-color:rgb(74, 116, 167);
