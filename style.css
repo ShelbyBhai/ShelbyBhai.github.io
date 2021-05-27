@@ -65,6 +65,7 @@ a:visited{
 }
 a:hover{
   color:rgb(102, 151, 216);
+  transition: 0.75s;
 }
 
 .carousel-caption:hover{
